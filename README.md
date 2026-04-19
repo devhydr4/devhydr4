@@ -8,7 +8,7 @@
 
 ## 🧠 Sobre mim
 
-```bash
+bash
 > user: devhydr4
 > focus: cybersecurity + embedded systems
 > status: building...
