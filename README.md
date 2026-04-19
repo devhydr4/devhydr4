@@ -29,8 +29,4 @@
 
 ---
 
-## 🧬 Estilo terminal
-```bash
-> booting devhydr4...
-> loading binary system...
-> ready.
+
