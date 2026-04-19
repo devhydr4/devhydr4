@@ -1,32 +1,33 @@
-# 👨‍💻 Olá, me chamo Kernel
+# 👾 devhydr4 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=24&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Arduino+Developer;Binary+Computer+Builder;Embedded+Systems+Learner" />
+</p>
+
+---
 
 ## 🧠 Sobre mim
-💻 Estudando programação e eletrônica  
-🔌 Focado em Arduino  
 
----
+```bash
+> user: devhydr4
+> focus: cybersecurity + embedded systems
+> status: building...
 
-## 🔥 Projeto principal
-### 🟢 Computador Binário
-- Entrada com botões  
-- Saída com LEDs  
-- Conversão binário → decimal  
-- Display TM1637  
+[INPUT]   -> botões
+[PROCESS] -> lógica binária
+[OUTPUT]  -> LEDs + display
+<p align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devhydr4&show_icons=true&theme=chartreuse-dark"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhydr4&layout=compact&theme=chartreuse-dark"/> </p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=devhydr4&theme=chartreuse-dark" /> </p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=devhydr4&theme=chartreuse-dark"/> </p>
 
----
+> initializing system...
+> loading security modules...
+> connecting hardware...
+> compiling logic...
+> status: ONLINE 🟢
 
-## 🛠️ Tecnologias
-![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Electronics](https://img.shields.io/badge/Electronics-222222?logo=probot&logoColor=white)
-
----
-
-## 📊 Estatísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=devhydr4&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhydr4&layout=compact&theme=radical)
-
----
-
-
+while(alive){
+   learn();
+   build();
+   improve();
+}
