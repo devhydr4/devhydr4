@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kernel
 
-<!--
-**devhydr4/devhydr4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Apaixonado por tecnologia e cybersec
+🔌 Estudando Arduino e eletrônica  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+- 🔢 Computador Binário
+
+---
+
+## 🛠️ Tecnologias
+- Arduino
+- C++
+- Eletrônica
+
+---
+
+## 📊 Status
+![Stats](https://github-readme-stats.vercel.app/api?username=devhydr4&show_icons=true&theme=dark)
